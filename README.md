@@ -1,4 +1,4 @@
-### ReactRedux-Starter ###
+### 01_users_manager ###
 
 Pour installer le projet se placer dans le projet et lancer : 
 
