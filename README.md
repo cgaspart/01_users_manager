@@ -1,2 +1,9 @@
-# 01_users_manager
-React &amp; Redux: admin panel - users_manager
+### ReactRedux-Starter ###
+
+Pour installer le projet se placer dans le projet et lancer : 
+
+```
+> npm install
+> npm start
+```
+
